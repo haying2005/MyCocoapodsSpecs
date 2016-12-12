@@ -25,8 +25,8 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fangwenyu' => 'haying2005@163.com' }
-  #s.source           = { :git => 'https://github.com/haying2005/RTSAnimation.git', :tag => s.version.to_s }
-  s.source           = { :git => 'https://192.168.31.91:8443/r/iOS_library/RTSAnimator.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/haying2005/RTSAnimation.git', :tag => s.version.to_s }
+  #s.source           = { :git => 'https://192.168.31.91:8443/r/iOS_library/RTSAnimator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
